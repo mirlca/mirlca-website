@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ renderData.title or title or metadata.title }}</title>
+    <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
+    <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
+    <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
+    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+  </head>
+  <body>
+
+  <main {% if templateClass %} class="{{ templateClass }}"{% endif %}>
+      {# <div class="warning">
+        <ol>
+          <li>Edit the <code>_data/metadata.json</code> with your blog’s information.</li>
+          <li>(Optional) Edit <code>.eleventy.js</code> with your <a href="https://www.11ty.dev/docs/config/">configuration preferences</a>.</li>
+          <li>Delete this message from <code>_includes/layouts/base.njk</code>.</li>
+        </ol>
+        <p><em>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>.</em></p>
+      </div> #}
+<div class="row">
+  <div class="column">
+    <p class="header">This is the project website & blog of <em>MIRLCAuto: A Virtual Agent for Music Information Retrieval in Live Coding</em>, a project funded by the <a href="https://hdi-network.org/music-ai-created-content-and-industrial-cultural-effects/">EPSRC HDI Network Plus Grant - Art, Music, and Culture theme</a>.</p>
+    {{ content | safe }}
+  </div>
+  <div class="sidecolumn" >
+    <header>
+    <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+      {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
+      <ul class="nav">
+      {%- for entry in collections.all | eleventyNavigation %}
+        <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
+      {%- endfor %}
+      </ul>
+    </header>
+  </div>
+</div> 
+     
+
+    </main>
+
+<footer class="footer-distributed-header">
+  <h3>Partners</h3> 
+</footer> 
+
+<footer class="footer-distributed">
+  <figure><a href="http://iklectikoffsite.org/"><img src="/img/IKLECTIK-logo.png" class="img-logo" /></a></figure>
+  <figure><a href="https://leicesterhackspace.org.uk/"><img src="/img/Leicester-Hackspace-logo.png" class="img-logo" /></a></figure>
+  <figure><a href="https://lullcec.org/"><img src="/img/lullcec-logo.png" class="img-logo" /></a></figure>
+  <figure><a href="https://www.upf.edu/web/phonos"><img src="/img/Phonos-logo.png" class="img-logo" /></a></figure>
+  <figure><a href="https://www.dmu.ac.uk/research/research-faculties-and-institutes/technology/mtirc/mtirc.aspx"><img src="/img/MTI2-logo.png" class="img-logo" /></a></figure>
+</footer>   
+
+<footer class="footer-distributed-header">
+  <h3>Collaborators</h3> 
+</footer> 
+
+<footer class="footer-distributed">
+  <figure><a href="https://toplapbarcelona.hangar.org"><img src="/img/toplap-barcelona-logo.jpg" class="img-logo" /></a></figure>
+  <figure><a href="https://www.flucoma.org"><img src="/img/FluCoMa-logo.png" class="img-logo" /></a></figure>
+</footer> 
+
+<footer class="footer-distributed-footer">
+  <p><em>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>.</em></p> 
+</footer> 
+    <!-- Current page: {{ page.url | url }} -->
+  </body>
+</html>

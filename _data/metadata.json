@@ -1,0 +1,15 @@
+{
+  "title": "MIRLCAuto",
+  "url": "https://mirlca.dmu.ac.uk/",
+  "description": "The website & blog of the project MIRLCa.",
+  "feed": {
+    "subtitle": "A Virtual Agent for Music Information Retrieval in Live Coding",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://mirlca.dmu.ac.uk"
+  },
+  "author": {
+    "name": "Anna Xambó",
+    "email": "anna.xambo@dmu.ac.uk"
+  }
+}
