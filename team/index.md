@@ -31,9 +31,10 @@ eleventyNavigation:
     </td>
     </tr>
     <tr>
-    <td class="table-cell-left"><img src="../../img/209-2098523_individuals-person-icon-circle-png-clipart.png" class="responsive2" /></td>
+    <td class="table-cell-left"><img src="../../img/Angel-Faraldo-256x256px.jpg" class="responsive2" /></td>
     <td class="table-cell-right">
-    <p>Ángel Faraldo<br />
+    <p>Active as an experimental music maker, Ángel Faraldo extends his work with sound installations, site-specific actions and sound design for dance and opera. He is interested in processes that maximise minimal resources, developing a critical and ecological perspective of live-electronic music, as materialised in his cycle The Feedback Study Series, his digital synthesiser MISS or his approach towards the no-input-mixer. Furthermore, he does significant labor performing and producing live-electronic music, especially as a member of Vertixe Sonora Ensemble, and as artistic director of the Phonos Foundation in Barcelona. He has studied at the Royal Conservatoire of Music (Madrid) and the Institute of Sonology (The Hague), obtaining his PhD degree from the Music Technology Group at Pompeu Fabra University (Barcelona), where he is currently a teaching associate.
+    <br />
    <a href="https://www.upf.edu/web/phonos">www.upf.edu/web/phonos</a></p>
     </td>
     </tr>     

@@ -7,13 +7,16 @@ eleventyNavigation:
   order: 5
 ---
 
----
 
-**Link to Online registration form**: See below information about the online workshop. If interested, you can register to the workshop [here].
+**<span style="background-color: #FFFF00">Registration to the Workshop is Open!!**</span> All participants are welcome to register to the workshop completing the online registration at the following link:
 
----
+* **London (IKLECTIK) 7/9/11.12.2020 - 19:00-21:00 (GMT)**:<br /> <span style="background-color: #FFFF00">[https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-london-iklectik](https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-london-iklectik)</span>
+<br />
+* **Barcelona (L'Ull Cec) 11/13/15.1.2021- 19:00-21:00 (CET)**:<br />  <span style="background-color: #FFFF00">[https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-barcelona-lullcec](https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-barcelona-lullcec)</span>
+<br />
+* **Leicester (Leicester Hackspace) 25/27/29.1.2021 - 19:00-21.00 (GMT)**:<br />  <span style="background-color: #FFFF00">[https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-leicester-hackspace](https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-leicester-hackspace)</span>
 
-The same workshop will be delivered online in collaboration with 3 different organisations: [IKLECTIK](http://iklectikoffsite.org/) (London), [L'Ull Cec](https://lullcec.org/) (Barcelona) and [Leicester Hackspace](https://leicesterhackspace.org.uk/) (Leicester). Due to the pandemic, we have adapted the workshop to online delivery and not only welcome local participants but also international participants.
+Please note that **the same workshop will be delivered online in collaboration with 3 different organisations**: [IKLECTIK](http://iklectikoffsite.org/) (London), [L'Ull Cec](https://lullcec.org/) (Barcelona) and [Leicester Hackspace](https://leicesterhackspace.org.uk/) (Leicester). Due to the pandemic, we have adapted the workshop to online delivery and not only welcome local participants but also international participants.
 
 <!-- <iframe name="embed_readonly" src="https://pad.riseup.net/p/r.e47580bd23482fe9d3fc869b18d93354?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false&authorship=false" width="100%" height="600" frameborder="0"></iframe> -->
 
@@ -36,7 +39,7 @@ The same workshop will be delivered online in collaboration with 3 different org
 Each workshop will happen in 3 sessions of 2h each session throughout a week:
     
 * **IKLECTIC (London) in December 2020**: Monday 7, Wednesday 9, and Friday 11 December 2020, 19:00-21:00 (GMT).
-* **L'Ull Cec (Barcelona) in January 2021**: Monday 11, Tuesday 12, and Wednesday 13 January, 19:00-21:00 (CET). 
+* **L'Ull Cec (Barcelona) in January 2021**: Monday 11, Wednesday 13, and Friday 15 January, 19:00-21:00 (CET). 
 * **Leicester Hackspace (Leicester) in January 2021**: Monday 25, Wednesday 27, and Friday 29 January 2021 19:00-21.00 (GMT).
 
 ### Number of Participants
