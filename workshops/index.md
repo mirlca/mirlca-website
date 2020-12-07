@@ -20,6 +20,8 @@ Please note that **the same workshop will be delivered online in collaboration w
 
 <!-- <iframe name="embed_readonly" src="https://pad.riseup.net/p/r.e47580bd23482fe9d3fc869b18d93354?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false&authorship=false" width="100%" height="600" frameborder="0"></iframe> -->
 
+You can download the flyer from [here](https://mirlca.dmu.ac.uk/promo/workshop-flyer/).
+
 A translation of this text to Catalan and Spanish can be found here for the workshop to be held in Barcelona (L'Ull Cec):
 
 * Catalan: Coming soon.
@@ -61,6 +63,10 @@ Instructions will be sent to the workshop attendees prior to the start of the wo
 * A previous experience with SuperCollider will be helpful but beginners are also welcomed to apply.
 * Each participant will need a laptop and internet connection to follow the online workshop sessions. 
 * Workshop attendees will receive instructions to install: SuperCollider, Freesound quark, MIRLC and FluCoMa tools.
+
+### Code of Conduct
+
+Please be reminded that all participants are expected to follow the [Berlin Code of Conduct](https://berlincodeofconduct.org/). If you think you have an incidence to report, please contact the workshop organisers.
 
 ### Language
 

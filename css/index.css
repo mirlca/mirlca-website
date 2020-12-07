@@ -345,10 +345,12 @@ figcaption{
 
 .table-cell-left {
   width:20%;
+  vertical-align: top;
 }
 
 .table-cell-right {
   width:80%;
+  vertical-align: top;
 }
 
 .table-cell-left, .table-cell-right {
