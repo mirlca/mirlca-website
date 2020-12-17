@@ -10,7 +10,7 @@ eleventyNavigation:
 
 **<span style="background-color: #FFFF00">Registration to the Workshop is Open!!**</span> All participants are welcome to register to the workshop completing the online registration at the following link:
 
-* **London (IKLECTIK) 7/9/11.12.2020 - 19:00-21:00 (GMT)**:<br /> <span style="background-color: #FFFF00">[https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-london-iklectik](https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-london-iklectik)</span>
+* **London (IKLECTIK) 7/9/11.12.2020 - 19:00-21:00 (GMT)**:<br /> [https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-london-iklectik](https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-london-iklectik) (Closed)
 <br />
 * **Barcelona (L'Ull Cec) 11/13/15.1.2021- 19:00-21:00 (CET)**:<br />  <span style="background-color: #FFFF00">[https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-barcelona-lullcec](https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-barcelona-lullcec)</span>
 <br />

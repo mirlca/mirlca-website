@@ -17,9 +17,10 @@ eleventyNavigation:
   </tr>
   
   <tr>
-    <td class="table-cell-left"><img src="../../img/209-2098523_individuals-person-icon-circle-png-clipart.png" class="responsive2" /></td>
+    <td class="table-cell-left"><img src="../../img/Sam-Roig-256x256px.jpg" class="responsive2" /></td>
     <td class="table-cell-right">
-    <p><strong>Sam Roig</strong><br />
+    <p>Since 2006, helped by a fuzzy network of collaborators, <strong>Sam Roig</strong> has been directing l'ull cec, a cultural organization that has produced a wide assortment of public events and artistic projects related to sonic arts and experimental music, as well as dissemination activities around audio technology topics related to these disciplines. He is currently a PhD candidate at the University of Huddersfield and co-organises the MIRLCAuto's project workshops. 
+    <br />
    <a href="https://lullcec.org/">lullcec.org</a></p>
     </td>
     </tr>

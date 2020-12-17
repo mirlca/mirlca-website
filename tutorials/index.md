@@ -7,4 +7,6 @@ eleventyNavigation:
   order: 4
 ---
 
-Coming soon.
+We will be publishing soon some video tutorials about the software that is being developed for the workshops and performances.
+
+Here you can find a link to our GitHub repository: [https://github.com/mirlca](https://github.com/mirlca)
