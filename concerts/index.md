@@ -11,7 +11,7 @@ As a follow-up of the workshops to be held in London (IKLECTIK), Barcelona (L'Ul
 
 ## London (IKLECTIK)
 
-<iframe class="responsive-video" width="560" height="315" src="https://www.youtube.com/embed/ZRqNfgg1HU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-video" width="640" height="361" src="https://www.youtube.com/embed/ZRqNfgg1HU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Saturday, 12 December 2020 from 14:00-15:00 GMT**
 
