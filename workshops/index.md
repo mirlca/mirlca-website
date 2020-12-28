@@ -8,31 +8,61 @@ eleventyNavigation:
 ---
 
 
-**<span style="background-color: #FFFF00">Registration to the Workshop is Open!!**</span> All participants are welcome to register to the workshop completing the online registration at the following link:
+Please note that **the same workshop will be delivered online in collaboration with 3 different organisations**: [IKLECTIK](http://iklectikoffsite.org/) (London), [L'Ull Cec](https://lullcec.org/) (Barcelona) and [Leicester Hackspace](https://leicesterhackspace.org.uk/) (Leicester). Due to the pandemic, we have adapted the workshop to online delivery and not only welcome local participants but also international participants. See below to find out more about dates.
 
-* **London (IKLECTIK) 7/9/11.12.2020 - 19:00-21:00 (GMT)**:<br /> [https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-london-iklectik](https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-london-iklectik) (Closed)
+
+**<span style="background-color: #FFFF00">Registration to the Online Workshop is Open!!**</span> All participants are welcome to register to our forthcoming workshop completing the online registration at the following link:
+
+* **London (IKLECTIK) 7/9/11.12.2020 - 19:00-21:00 (GMT)**: Closed.
 <br />
 * **Barcelona (L'Ull Cec) 11/13/15.1.2021- 19:00-21:00 (CET)**:<br />  <span style="background-color: #FFFF00">[https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-barcelona-lullcec](https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-barcelona-lullcec)</span>
 <br />
-* **Leicester (Leicester Hackspace) 25/27/29.1.2021 - 19:00-21.00 (GMT)**:<br />  <span style="background-color: #FFFF00">[https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-leicester-hackspace](https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-leicester-hackspace)</span>
+* **Leicester (Leicester Hackspace) 25/27/29.1.2021 - 19:00-21.00 (GMT)**: Forthcoming.
 
-Please note that **the same workshop will be delivered online in collaboration with 3 different organisations**: [IKLECTIK](http://iklectikoffsite.org/) (London), [L'Ull Cec](https://lullcec.org/) (Barcelona) and [Leicester Hackspace](https://leicesterhackspace.org.uk/) (Leicester). Due to the pandemic, we have adapted the workshop to online delivery and not only welcome local participants but also international participants.
+<!-- * **London (IKLECTIK) 7/9/11.12.2020 - 19:00-21:00 (GMT)**:<br /> [https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-london-iklectik](https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-london-iklectik) (Closed) -->
+<!-- <br /> -->
+<!-- * **Barcelona (L'Ull Cec) 11/13/15.1.2021- 19:00-21:00 (CET)**:<br />  <span style="background-color: #FFFF00">[https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-barcelona-lullcec](https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-barcelona-lullcec)</span> -->
+<!-- <br /> -->
+<!-- * **Leicester (Leicester Hackspace) 25/27/29.1.2021 - 19:00-21.00 (GMT)**:<br />  <span style="background-color: #FFFF00">[https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-leicester-hackspace](https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-leicester-hackspace)</span> -->
 
 <!-- <iframe name="embed_readonly" src="https://pad.riseup.net/p/r.e47580bd23482fe9d3fc869b18d93354?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false&authorship=false" width="100%" height="600" frameborder="0"></iframe> -->
 
-You can download the flyer from [here](https://mirlca.dmu.ac.uk/promo/workshop-flyer/).
 
-A translation of this text to Catalan and Spanish can be found here for the workshop to be held in Barcelona (L'Ull Cec):
+A translation of this text to Catalan and Spanish can be found here for the workshop to be held in **Barcelona (L'Ull Cec)**:
 
-* Catalan: Coming soon.
-* Spanish: Coming soon.
+* <span style="background-color: #FFFF00">[Catalan](/workshops/ca/)</span>
+* <span style="background-color: #FFFF00">[Spanish](/workshops/sp/)</span>
 
 
 ## Online Workshop: "Performing with a virtual agent: machine learning for live coding"
 
 In this hands-on online workshop, you will explore MIRLC, an easy live coding environment built in SuperCollider to query sounds from Freesound.org, and will be introduced to how machine learning can be useful to improve the live coding experience. The workshop is designed to accommodate both beginners and experts in programming using a team-based learning approach. 
- 
-This workshop is free, but pre-registration is required.
+
+### Schedule
+
+* **Day 1** (2h): 
+  * An introdution to MIRLC: an easy live coding language to query sounds from Freesound.org
+* **Day 2** (2h): 
+  * An introduction to machine learning in live coding and task 1: Train an agent to assist meaningful querying to Freesound.org 
+* **Day 3** (2h): 
+  * A follow-up to machine learning in live coding and invent your own problem for machine learning (IKLECTIK) // A follow-up to machine learning in live coding and task 2: Explore an agent that reacts to the live coder inputs when querying to Freesound.org (L'Ull Cec and Leicester Hackspace).
+
+### Language
+
+This workshop will be in English.
+
+### Requirements
+
+* A previous experience with SuperCollider will be helpful but beginners are also welcomed to apply.
+* Each participant will need a laptop and internet connection to follow the online workshop sessions. 
+* Workshop attendees will receive instructions to install: SuperCollider, Freesound quark, MIRLC and FluCoMa tools.
+
+### Registration
+
+This workshop is free, but pre-registration is required. All participants are welcome to register to our forthcoming workshop completing the online registration at the following link:
+
+* **Barcelona (L'Ull Cec) 11/13/15.1.2021- 19:00-21:00 (CET)**:<br />  <span style="background-color: #FFFF00">[https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-barcelona-lullcec](https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-barcelona-lullcec)</span>
+
 
 ### Dates / Duration
 
@@ -48,29 +78,15 @@ Each workshop will happen in 3 sessions of 2h each session throughout a week:
 
 The number of participants is limited to 20 participants for each workshop. Please fill in the online registration form (link provided at the top of this page) to book your place.
 
+
 ### Prior to the workshop
 
 Instructions will be sent to the workshop attendees prior to the start of the workshop with setup instructions in the form of a text or video (mainly installing SuperCollider, Freesound quark, MIRLC and FluCoMa tools). An invitation to the Zoom meeting will be also sent. The participants will be working in teams (via Zoom Breakout rooms).
 
-### Schedule
-
-* **Day 1** (2h): An introdution to MIRLC: an easy live coding language to query sounds from Freesound.org
-* **Day 2** (2h): An introduction to machine learning in live coding and task 1: Train an agent to assist meaningful querying to Freesound.org 
-* **Day 3** (2h): A follow-up to machine learning in live coding and invent your own problem for machine learning (IKLECTIK) // A follow-up to machine learning in live coding and task 2: Explore an agent that reacts to the live coder inputs when querying to Freesound.org (L'Ull Cec and Leicester Hackspace).
-
-### Requirements
-
-* A previous experience with SuperCollider will be helpful but beginners are also welcomed to apply.
-* Each participant will need a laptop and internet connection to follow the online workshop sessions. 
-* Workshop attendees will receive instructions to install: SuperCollider, Freesound quark, MIRLC and FluCoMa tools.
 
 ### Code of Conduct
 
 Please be reminded that all participants are expected to follow the [Berlin Code of Conduct](https://berlincodeofconduct.org/). If you think you have an incidence to report, please contact the workshop organisers.
-
-### Language
-
-This workshop will be in English.
 
 ### Contact
 
@@ -79,3 +95,7 @@ Anna Xambó: anna.xambo@dmu.ac.uk
 ### Website
 
 https://mirlca.dmu.ac.uk/workshops
+
+### Flyer
+
+You can download the flyer from [here](https://mirlca.dmu.ac.uk/promo/workshop-flyer/).
