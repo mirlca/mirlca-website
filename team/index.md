@@ -47,15 +47,15 @@ eleventyNavigation:
     </td>
     </tr>     
     <tr>
-    <td class="table-cell-left"><img src="../../img/209-2098523_individuals-person-icon-circle-png-clipart.png" class="responsive2" /></td>
+    <td class="table-cell-left"><img src="../../img/Richard-Forrest-256x256px.jpg" class="responsive2" /></td>
     <td class="table-cell-right">
-    <p><strong>Richard Forrest</strong><br />
-   <a href="https://leicesterhackspace.org.uk/">leicesterhackspace.org.uk</a></p>
+    <p><strong>Richard Forrest</strong> is a retired Electronics / Software engineer who worked in the Automotive and Aerospace industries. He is a member of Leicester Hackspace which is a venue for people to pursue their creativity in digital, electronic, mechanical and computer projects. He has just launched his own embedded software consultancy which offers to design embedded software using techniques that Richard has developed using the experience he has gained during his working career. Richard has performed music as a violin player in a symphony orchestra and as a chorister, having sung all the harmony parts at different times during his life. He has an appreciation of classical, modern, jazz, film and television theme music and a good grasp of music theory.   <br />
+   <a href="https://leicesterhackspace.org.uk/">leicesterhackspace.org.uk</a><br /><a href="http://zoag.net/">zoag.net</a></p>
     </td>
     </tr> 
-    <td class="table-cell-left"><img src="../../img/209-2098523_individuals-person-icon-circle-png-clipart.png" class="responsive2" /></td>
+    <td class="table-cell-left"><img src="../../img/Tony-Abbey-256x256px.jpg" class="responsive2" /></td>
     <td class="table-cell-right">
-    <p><strong>Tony Abbey</strong><br />
+    <p><strong>Tony Abbey</strong> is a retired Space Electronics engineer specialising in cooled CCD cameras for X-ray astronomy at Leicester University. Now volunteering at The National Museum of Computing at Bletchley Park where he is helping to rebuild the 1949 Valve Computer - EDSAC which kickstarted computing in the UK. Helped start up Leicester Hackspace where he was a director and is now company secretary. Interested in electronic music from a teenager. Built his first transistor oscillator keyboard instrument in the 1960's so he could play 'Telstar' by the Tornadoes. He became interested in electronic music at Southampton Uni where he did an Electronic Engineering degree and have the LP of 'Switched on Bach' by Walter Carlos (later Wendy Carlos). Fan of Kraftwerk and the Pet Shop Boys. He wants to learn if the on-line composing project is music as he would define it.<br />
    <a href="https://leicesterhackspace.org.uk/">leicesterhackspace.org.uk</a></p>
     </td>
     </tr>        
