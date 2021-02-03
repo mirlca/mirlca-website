@@ -42,6 +42,11 @@ L’activitat és gratuïta, però cal inscripció prèvia. Podeu registrar-vos 
 
 S'enviaran les instruccions d'instal.lació als enregistrats al taller abans de que comenci el taller en la forma de text o vídeo (principalment relacionat amb la instal.lació de SuperCollider, Freesound quark, MIRLC i les eines de FluCoMa). També se us enviarà una invitació a la reunió en Zoom. Els participants treballaran en equip (a través de l'entorn Zoom).
 
+### Instructors
+
+Sam Roig
+Anna Xambó
+
 ## Contacte
 
 Anna Xambó: anna.xambo@dmu.ac.uk

@@ -364,3 +364,17 @@ figcaption{
 .table-cell-left, .table-cell-right {
   padding: 0 1em 2em 0;
 }
+
+.darkhighlight{
+  background-color: #FFFF00;
+}
+
+.lighthighlight{
+  background-color: #FFFFCC;
+}
+
+.lighthighlightbox{
+  padding:1.5em 1.5em;background-color: #DEDEDE;
+  border-radius: 1em;
+  margin: 0 0 2em 0;
+}

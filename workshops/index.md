@@ -13,12 +13,12 @@ Please note that **the same workshop will be delivered online in collaboration w
 
 <!-- **<span style="background-color: #FFFF00">Registration to the Online Workshop is Open!!**</span> All participants are welcome to register to our forthcoming workshop completing the online registration at the following link: -->
 
-* **London (IKLECTIK) 7/9/11.12.2020 - 19:00-21:00 (GMT)**: Closed.
+* **London (IKLECTIK) 7/9/11.12.2020 - 19:00-21:00 (GMT)**: <span class="lighthighlight">Closed</span>.
 <br />
-* **Barcelona (L'Ull Cec) 11/13/15.1.2021- 19:00-21:00 (CET)**: Closed.
+* **Barcelona (L'Ull Cec) 11/13/15.1.2021- 19:00-21:00 (CET)**: <span class="lighthighlight">Closed</span>.
 A translation of this text to Catalan and Spanish can be found here: [**Catalan**](/workshops/ca/) | [**Spanish**](/workshops/sp/)
 <br />
-* **Leicester (Leicester Hackspace) 25/27/29.1.2021 - 19:00-21.00 (GMT)**: <br />  <span style="background-color: #FFFF00">[https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-leicester-hackspace](https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-leicester-hackspace)</span>
+* **Leicester (Leicester Hackspace) 25/27/29.1.2021 - 19:00-21.00 (GMT)**: <br /> <span class="lighthighlight">Closed</span>.
 
 
 <!-- * **London (IKLECTIK) 7/9/11.12.2020 - 19:00-21:00 (GMT)**:<br /> [https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-london-iklectik](https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-london-iklectik) (Closed) -->
@@ -81,7 +81,7 @@ This workshop is free, but pre-registration is required. All participants are we
 <!-- * **Barcelona (L'Ull Cec) 11/13/15.1.2021- 19:00-21:00 (CET)**: <br /> <span style="background-color: #FFFF00">[https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-barcelona-lullcec](https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-barcelona-lullcec)</span> -->
 <!-- A translation of this text to Catalan and Spanish can be found here: [**Catalan**](/workshops/ca/) | [**Spanish**](/workshops/sp/) -->
 <!-- <br /> -->
-* **Leicester (Leicester Hackspace) 25/27/29.1.2021 - 19:00-21.00 (GMT)**: <br />  <span style="background-color: #FFFF00">[https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-leicester-hackspace](https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-leicester-hackspace)</span>
+<!-- * **Leicester (Leicester Hackspace) 25/27/29.1.2021 - 19:00-21.00 (GMT)**: <br />  <span style="background-color: #FFFF00">[https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-leicester-hackspace](https://de-montfort.onlinesurveys.ac.uk/online-workshop-registration-mirlca-leicester-hackspace)</span> -->
 
 
 ### Dates / Duration
