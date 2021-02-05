@@ -16,7 +16,7 @@ layout: layouts/post.njk
 
 <figure>
 <img src="../../img/Hernani_Villasenor_photo_by_Alejandra_Alvarez.jpg" width="100%" class="responsive" />
-<figcaption>Hernani Villaseñor. Photo by Alejandra Alvarez.</figcaption>
+<figcaption>Hernani Villaseñor. Foto de Alejandra Alvarez.</figcaption>
 </figure>
 
 <div class="lighthighlightbox">
@@ -35,7 +35,7 @@ layout: layouts/post.njk
 
 ## Cuéntanos un poco sobre ti y sobre tu práctica artística con live coding...
 
-Me llamo Hernani, soy músico y vivo en la ciudad de México, donde actualmente hago un doctorado en tecnología musical en la [UNAM](https://www.unam.mx/). Conocí el live coding en un taller de SuperCollider que tomé en el Centro Multimedia, en México, alrededor del 2009 y desde entonces me he involucrado en la práctica, la difusión y últimamente en la investigación y el desarrollo tecnológico. Me interesa el live coding desde cero, tanto solista como en grupo interconectado, por las posibilidades de auto aprendizaje e intercambio de conocimientos con las comunidades de practicantes. Mi aproximación al live coding es muy rítmica, me gusta usar patrones (Patterns) para secuenciar sintetizadores (SynthDef) y desde hace unos dos años he comenzado a trabajar con sonido grabado en el momentos mismo de las presentaciones. Para ello comencé a desarrollar una serie de clases y presentaciones bajo el concepto de SonoTexto (sonido + texto) en referencia al trabajo con señal de audio y código computacional.
+Me llamo Hernani, soy músico y vivo en la ciudad de México, donde actualmente hago un doctorado en tecnología musical en la [UNAM](https://www.unam.mx/). Conocí el live coding en un taller de [SuperCollider](https://supercollider.github.io/) que tomé en el Centro Multimedia, en México, alrededor del 2009 y desde entonces me he involucrado en la práctica, la difusión y últimamente en la investigación y el desarrollo tecnológico. Me interesa el live coding desde cero, tanto solista como en grupo interconectado, por las posibilidades de auto aprendizaje e intercambio de conocimientos con las comunidades de practicantes. Mi aproximación al live coding es muy rítmica, me gusta usar patrones (Patterns) para secuenciar sintetizadores (SynthDef) y desde hace unos dos años he comenzado a trabajar con sonido grabado en el momentos mismo de las presentaciones. Para ello comencé a desarrollar una serie de clases y presentaciones bajo el concepto de SonoTexto (sonido + texto) en referencia al trabajo con señal de audio y código computacional.
 
 ## Qué te motivó para apuntarte al taller?
 
