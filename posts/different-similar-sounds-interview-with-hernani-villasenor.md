@@ -12,7 +12,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-<span class="lighthighlight">*You can read the original interview in Spanish [here](/posts/diferentes-sonidos-similares-entrevista-con-hernani-villasenor/)*</span>
+This series of interviews and work-in-progress videos relate to our workshop with l'ull cec in collaboration with TOPLAP Barcelona, a workhop with 3 official communication languages: English, Spanish and Catalan. <span class="lighthighlight">*You can read the original interview in Spanish [here](/posts/diferentes-sonidos-similares-entrevista-con-hernani-villasenor/) and in Catalan [here](/posts/diferents-sons-similars-entrevista-amb-hernani-villasenor/)*</span>
 
 <figure>
 <img src="../../img/Hernani_Villasenor_photo_by_Alejandra_Alvarez.jpg" width="100%" class="responsive" />
@@ -44,7 +44,7 @@ First of all, I met the people who gave the workshop some time ago, in the live 
 
 ## Did you have any prior hands-on experience with machine learning before attending this workshop?
 
-Not much. I have read about it and follow works of some artists-programmers who make music and research about it. I have learned from them terms and concepts when seeing how they perform their computational sound practices and listening to their work. I also tried a little bit of these techniques during a [Sema](https://sema.codes/)  workshop last year. That's all, actually. I could say that, in practice, I have had no experience until this workshop.
+Not much. I have read about it and follow works of some artists-programmers who make music and research about it. I have learned from them terms and concepts when seeing how they perform their computational sound practices and listening to their work. I also tried a little bit of these techniques during a [Sema](https://sema.codes/) workshop last year. That's all, actually. I could say that, in practice, I have had no experience until this workshop.
 
 ## How did you approach the production of your video submission?
 

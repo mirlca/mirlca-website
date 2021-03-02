@@ -22,3 +22,7 @@ The next meetup is scheduled on October 19, 7:00pm-9:00pm GMT+2 (Oslo time), don
 The slides of my presentation are available [here](/downloads/NOTAM-VAs-in-LC-21.09-2020.pdf).
 
 
+## Acknowledgments
+
+Thanks to Mariam Gviniashvili and Jenny Berger Myhre for the invitation, and to NOTAM for hosting the event.
+
