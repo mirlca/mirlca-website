@@ -378,3 +378,7 @@ figcaption{
   border-radius: 1em;
   margin: 0 0 2em 0;
 }
+
+.paleborder{
+  border:0.2em solid #DEDEDE;
+}

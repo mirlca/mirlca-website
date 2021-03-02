@@ -11,7 +11,7 @@ As a follow-up of the workshops to be held in London (IKLECTIK), Barcelona (L'Ul
 
 ## London (IKLECTIK)
 
-<iframe class="responsive-video" width="640" height="361" src="https://www.youtube.com/embed/ZRqNfgg1HU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-video" width="640" height="360" src="https://www.youtube.com/embed/ZRqNfgg1HU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Saturday, 12 December 2020 from 14:00-15:00 GMT**
 
@@ -37,10 +37,22 @@ Iván Paz studied physics and mathematics at the National Autonomous University 
 Since 2006, helped by a fuzzy network of collaborators, Sam Roig has been directing l'Ull Cec, a cultural organization that has produced a wide assortment of public events and artistic projects related to sonic arts and experimental music, as well as dissemination activities around audio technology topics related to these disciplines. He is currently a PhD candidate at the University of Huddersfield.
 [https://lullcec.org/](https://lullcec.org)
 
+## Transnodal TOPLAP
+### They Are the Robots
+
+**Sunday, 21 February 2021 17:30-18:00 GMT**
+
+A live coding session performed by Anna Xambó during Transnodal TOPLAP (19-21 February 2021).
+
+In this session, the MIRLCa library is used, which is a self-built tool for live coding enhanced with a virtual agent. This version includes the feedback from participants of the workshops organised together with IKLECTIK, l'ull cec/TOPLAP Barcelona, and Leicester Hackspace.
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/515416972" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+
 ## Barcelona (Phonos)
 
-We will announcing the date of this concert very soon, which will be scheduled around January 2021. Please stay tuned!
+We will announcing the date of this concert very soon, which will be scheduled around March 2021. Please stay tuned!
 
 ## Leicester (MTI^2, De Montfort University)
 
-We will announcing the date of this concert very soon, which will be scheduled around February 2021. Please stay tuned!
+We will announcing the date of this concert very soon, which will be scheduled around April-May 2021. Please stay tuned!
