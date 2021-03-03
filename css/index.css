@@ -382,3 +382,15 @@ figcaption{
 .paleborder{
   border:0.2em solid #DEDEDE;
 }
+
+.disqus-count-comments {
+  font-size: 0.8125em; /* 13px /16 */
+  color: var(--darkgray);
+}
+
+.disqus-count-comments a[href] {
+  font-size: 1em; /* 13px /16 */  
+  font-weight: normal;
+  text-decoration:underline;
+  color: var(--darkgray);
+}
