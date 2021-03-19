@@ -12,7 +12,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-This series of interviews and work-in-progress videos relate to our workshop with l'ull cec in collaboration with TOPLAP Barcelona, a workhop with 3 official communication languages: English, Spanish and Catalan. <span class="lighthighlight">*You can read the original interview in Catalan [here](/posts/diferents-sons-similars-entrevista-amb-ramon-casamajo/)* and in English [here](/posts/different-similar-sounds-interview-with-ramon-casamajo/)</span>
+This series of interviews and work-in-progress videos relate to our workshop with l'ull cec in collaboration with TOPLAP Barcelona, a workshop with 3 official communication languages: English, Spanish and Catalan. <span class="lighthighlight">*You can read the original interview in Catalan [here](/posts/diferents-sons-similars-entrevista-amb-ramon-casamajo/)* and in English [here](/posts/different-similar-sounds-interview-with-ramon-casamajo/)</span>.
 
 <figure>
 <img src="../../img/Ramon_Casamajo-photo_by_Andres_Costa.jpg" width="100%" class="responsive" />

@@ -12,7 +12,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-This series of interviews and work-in-progress videos relate to our workshop with l'ull cec in collaboration with TOPLAP Barcelona, a workhop with 3 official communication languages: English, Spanish and Catalan. <span class="lighthighlight">*You can read the original interview in Spanish [here](/posts/diferentes-sonidos-similares-entrevista-con-iris-saladino/) and in Catalan [here](/posts/diferents-sons-similars-entrevista-amb-iris-saladino/)*</span>
+This series of interviews and work-in-progress videos relate to our workshop with l'ull cec in collaboration with TOPLAP Barcelona, a workshop with 3 official communication languages: English, Spanish and Catalan. <span class="lighthighlight">*You can read the original interview in Spanish [here](/posts/diferentes-sonidos-similares-entrevista-con-iris-saladino/) and in Catalan [here](/posts/diferents-sons-similars-entrevista-amb-iris-saladino/)*</span>.
 
 <figure>
 <img src="../../img/Iris_Saladino.jpg" width="100%" class="responsive" />

@@ -12,7 +12,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-This series of interviews and work-in-progress videos relate to our workshop with l'ull cec in collaboration with TOPLAP Barcelona, a workhop with 3 official communication languages: English, Spanish and Catalan. <span class="lighthighlight">*You can read the interview in English [here](/posts/different-similar-sounds-interview-with-hernani-villasenor/) and in Catalan [here](/posts/diferents-sons-similars-entrevista-amb-hernani-villasenor/)*</span>
+This series of interviews and work-in-progress videos relate to our workshop with l'ull cec in collaboration with TOPLAP Barcelona, a workshop with 3 official communication languages: English, Spanish and Catalan. <span class="lighthighlight">*You can read the interview in English [here](/posts/different-similar-sounds-interview-with-hernani-villasenor/) and in Catalan [here](/posts/diferents-sons-similars-entrevista-amb-hernani-villasenor/)*</span>.
 
 <figure>
 <img src="../../img/Hernani_Villasenor_photo_by_Alejandra_Alvarez.jpg" width="100%" class="responsive" />
