@@ -10,6 +10,7 @@ tags:
   - live-coding sessions
   - workshops
 layout: layouts/post.njk
+eleventyExcludeFromCollections: true
 ---
 
 This series of interviews and work-in-progress videos relate to our workshop with l'ull cec in collaboration with TOPLAP Barcelona, a workshop with 3 official communication languages: English, Spanish and Catalan. <span class="lighthighlight">*You can read the original interview in English [here](/posts/different-similar-sounds-interview-with-ivan-paz/) and in Catalan [here](/posts/diferents-sons-similars-entrevista-amb-ivan-paz/)*</span>.
