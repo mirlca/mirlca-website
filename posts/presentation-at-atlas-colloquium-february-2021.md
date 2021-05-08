@@ -9,6 +9,8 @@ tags:
 layout: layouts/post.njk
 ---
 
+<img src="../../img/pres-ATLAS-colloquium-23-02-2021.jpg" class="responsive paleborder"  />
+
 On 23 February 2021, I had the opportunity to present the project via Zoom at the [ATLAS Brown Bag Series](https://www.colorado.edu/atlas/) at the University of Colorado Boulder in Boulder, CO, United States. This series is organised and hosted by [Prof. Ellen Do](https://www.colorado.edu/atlas/ellen-yi-luen-do). You can find more info about the event [here](https://calendar.colorado.edu/event/atlas_colloquium_live_coding_using_crowdsourced_sounds_and_a_virtual_agent_state_of_affairs_and_implications_for_hci_research).
 
 
@@ -22,12 +24,11 @@ I will introduce the system MIRLCa and how machine learning supports the live co
 
 **Feedback**: The students asked several questions about the project, which I summarise here. A question that emerged was whether there is a mailing list about the project. This question has appeared several times during the workshops as well, so it is worth considering. A question was whether the live coder learns from the performance, which is the next task of the project. Someone asked whether other APIs apart from Freesound are supported, for instance, weather, Spotify, and so on. It is out of the project's scope. However, we explored the combination of Freesound with a personal database in our [NIME 2018 paper](http://doi.org/10.5281/zenodo.1302625), and we acknowledge that it is relevant to offer a modular solution looking forward. Other questions include whether the project will support multiple user training, collaborative training, and collaborative performance. We are considering these important features but they are out of the scope of this project at present. All in all, it was great to have this conversation with the students. 
 
-You can find the slides and reference list below.
+The slides of my presentation are available [here](/downloads/ATLAS-Colloquium-Anna-Xambo-Presentation-23.02.2021.pdf). You can find the reference list below. 
 
-<img src="../../img/pres-ATLAS-colloquium-23-02-2021.jpg" class="responsive paleborder"  />
+## Acknowledgments
 
-The slides of my presentation are available [here](/downloads/ATLAS-Colloquium-Anna-Xambo-Presentation-23.02.2021.pdf).
-
+Thanks to Prof. Ellen Do for the invitation, to the attendees for their interesting questions, and to ATLAS Institute University of Colorado Boulder for hosting the event.
 
 ## Reference List
 
@@ -85,6 +86,3 @@ The slides of my presentation are available [here](/downloads/ATLAS-Colloquium-A
 
 * Xambó, A., Roma, G., Lerch, A., Barthet, M., & Fazekas, G. (2018). Live Repurposing of Sounds: MIR Explorations with Personal and Crowdsourced Databases. *Proceedings of the International Conference on New Interfaces for Musical Expression*, Virginia Tech, pp. 364–369.
 
-## Acknowledgments
-
-Thanks to Prof. Ellen Do for the invitation, to the attendees for their interesting questions, and to ATLAS Institute University of Colorado Boulder for hosting the event.

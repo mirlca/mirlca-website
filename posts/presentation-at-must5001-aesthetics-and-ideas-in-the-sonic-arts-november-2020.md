@@ -9,13 +9,13 @@ tags:
 layout: layouts/post.njk
 ---
 
-Yesterday I had the opportunity to meet the students of the brand new DMU master [Music, Technology and Innovation MA](https://www.dmu.ac.uk/study/courses/postgraduate-courses/music-technology-ma/music-technology-innovation-ma.aspx) in the context of a guest lecture for the module MUST5001 Aesthetics and Ideas in the Sonic Arts coordinated by [Prof. John Young](http://www.dmu.ac.uk/about-dmu/academic-staff/technology/john-young/john-young.aspx).
+<img src="../../img/pres-MUST5001-lecture-11-25-2020.jpg" class="responsive" />
+
+Yesterday I had the opportunity to meet the students of the brand new De Montfort University (DMU) Master [Music, Technology and Innovation MA](https://www.dmu.ac.uk/study/courses/postgraduate-courses/music-technology-ma/music-technology-innovation-ma.aspx) in the context of a guest lecture for the module MUST5001 Aesthetics and Ideas in the Sonic Arts coordinated by [Prof. John Young](http://www.dmu.ac.uk/about-dmu/academic-staff/technology/john-young/john-young.aspx).
 
 The presentation entitled "Music performance with crowdsourced sounds: collaboration by chance" starts outlining the precedents of music performance with crowdsourced sounds including John Cage, The League of Automatic Music Composers / The Hub, Luigi Russolo, Pierre Schaeffer, Beatriz Ferreyra, and the reference book "Audio Culture". It then discusses the influence of Web 2.0 as a socio-technological change that has led to three approaches to music performance with crowdsourced sounds: (1) corpus-based performance, (2) soundmap-based performance, and (3) crowdsourced-based performance, where our project MIRLCAuto is contextualised.
 
 Next week we will be meeting again to discuss the different materials of the three approaches. You can find the slides and reference list below.
-
-<img src="../../img/pres-MUST5001-lecture-11-25-2020.jpg" class="responsive" />
 
 The slides of my presentation are available [here](/downloads/MUST5001-Anna-Xambo-Presentation-25.11.2020.pdf).
 
