@@ -1,7 +1,7 @@
 ---
 title: Presentation at Coding Literacy, Practices & Cultures Colloquia – April 29, 2021
 author: Anna Xambó
-description: This is a post about a presentation where the project at the Coding Literacy, Practices & Cultures, a networked series of research colloquia organised by University of Magdeburg and Film University KONRAD WOLF in Potsdam Babelsberg.
+description: This is a post about a presentation of the project at the Coding Literacy, Practices & Cultures, a networked series of research colloquia organised by University of Magdeburg and Film University KONRAD WOLF in Potsdam Babelsberg.
 date: 2021-04-29
 tags:
   - outreach

@@ -1,7 +1,7 @@
 ---
 title: Presentation at ATLAS Colloquium – February 23, 2021
 author: Anna Xambó
-description: This is a post about a presentation where the project at the ATLAS Brown Bag Series, University of Colorado Boulder.
+description: This is a post about a presentation of the project at the ATLAS Brown Bag Series, University of Colorado Boulder.
 date: 2021-02-23
 tags:
   - outreach

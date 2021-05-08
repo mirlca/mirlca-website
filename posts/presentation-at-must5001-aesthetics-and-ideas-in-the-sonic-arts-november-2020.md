@@ -1,7 +1,7 @@
 ---
 title: Presentation at MUST5001 Aesthetics and Ideas in the Sonic Arts – November 25, 2020
 author: Anna Xambó
-description: This is a post about a presentation where the project at the master Music Technology and Innovation where the project has been introduced in the context of music performance with crowdsourced sounds.
+description: This is a post about a presentation of the project at the master Music Technology and Innovation where the project has been introduced in the context of music performance with crowdsourced sounds.
 date: 2020-11-25
 tags:
   - outreach
