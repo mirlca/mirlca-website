@@ -20,7 +20,7 @@ As a follow-up of the workshops to be held in London (IKLECTIK), Barcelona (L'Ul
 
 **Monday, 17 May 2021. PACE (De Montfort University)**. 
 
-Featuring: Dirty Electronics Ensemble (performers), Jonathan Moss (performer), Anna Xambó (performer) and Sam Roig (Q&A moderator).
+Featuring: Dirty Electronics Ensemble (John Richards, Zach Dawson, Robin Foster, Ben Middle, Jacob Myer Braslawsce, Matt Rogerson, Amit Patel, Audrey Riley, Sam Topley, Samuel Warren), Jonathan Moss (performer), Anna Xambó (performer) and Sam Roig (Q&A moderator).
 
 This concert will be pre-recorded due to COVID restrictions and premiered online at a later date.
 
