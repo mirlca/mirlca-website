@@ -33,5 +33,5 @@ It was great to get to catch up with the fascinating work of colleagues, some of
 
 ## Acknowledgements
 
-Thank you ARTIFICIA Festival for the opportunity to be part of this panel and for a great organisation, with special thanks to Xavier Satorra, Lissette Lemus and Xavier García. Also thank you to Pol Thomas Ferrero for the great technical support during the streaming. Many thanks to Gerard Roma and Petros Galanakis for their help related to the "Sonic Haikus"s conceptualisation and execution.
+Thank you ARTIFICIA Festival for the opportunity to be part of this panel and for a great organisation, with special thanks to Xavier Satorra, Lissette Lemus and Xavier García. Also thank you to Pol Thomas Ferrero for the great technical support during the streaming. Many thanks to Gerard Roma and Petros Galanakis for their help related to the piece's conceptualisation and execution.
 
