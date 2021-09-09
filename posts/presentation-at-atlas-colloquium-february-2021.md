@@ -24,7 +24,9 @@ I will introduce the system MIRLCa and how machine learning supports the live co
 
 **Feedback**: The students asked several questions about the project, which I summarise here. A question that emerged was whether there is a mailing list about the project. This question has appeared several times during the workshops as well, so it is worth considering. A question was whether the live coder learns from the performance, which is the next task of the project. Someone asked whether other APIs apart from Freesound are supported, for instance, weather, Spotify, and so on. It is out of the project's scope. However, we explored the combination of Freesound with a personal database in our [NIME 2018 paper](http://doi.org/10.5281/zenodo.1302625), and we acknowledge that it is relevant to offer a modular solution looking forward. Other questions include whether the project will support multiple user training, collaborative training, and collaborative performance. We are considering these important features but they are out of the scope of this project at present. All in all, it was great to have this conversation with the students. 
 
-The slides of my presentation are available [here](/downloads/ATLAS-Colloquium-Anna-Xambo-Presentation-23.02.2021.pdf). You can find the reference list below. 
+The slides of my presentation are available [here](/downloads/ATLAS-Colloquium-Anna-Xambo-Presentation-23.02.2021.pdf). You can find the video recording of the presentation and reference list below. 
+
+<iframe class="responsive-video" width="640" height="360" src="https://www.youtube.com/embed/BG5y23oqCAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Acknowledgments
 

@@ -1,7 +1,7 @@
 ---
 title: Presence at NIME 2021 – June 14-18, 2021
 author: Anna Xambó
-description: This is a post about a presentation of the MIRLCAuto project at the ARTIFICIA Festival, Barcelona, Spain.
+description: This is a post about a presentation of the MIRLCAuto project at the New Interfaces for Musical Expression 2021 conference.
 date: 2021-06-28
 tags:
   - outreach

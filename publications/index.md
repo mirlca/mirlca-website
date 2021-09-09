@@ -9,7 +9,7 @@ eleventyNavigation:
 
 ## Journal Article
 
-* Xambó, A. (Submitted) “Virtual Agents in Live Coding: A Short Review”. e-Contact! Preprint version available [here](/downloads/Xambo-eContact-PREPRINT.pdf).
+* Xambó, A. (Submitted) “Virtual Agents in Live Coding: A Short Review”. e-Contact! Preprint version available [here](/downloads/Xambo-eContact-PREPRINT.pdf) and on [arXiv](https://arxiv.org/abs/2106.14835).
 
 
 ## Conference Paper

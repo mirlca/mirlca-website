@@ -23,7 +23,9 @@ It was great to see all the great work from the different nodes, and especially 
 
 <img src="../../img/transnodal-toplap-sheffield-2021.jpg" class="responsive"  />
 
-My performance is using the MIRLCa library with some new functionalities, such as expanding the VA to the "tag" method and printing the list of sound credits within the live coding environment. The three workshops that we organised in December 2020-January 2021 together with IKLECTIK, l'ull cec / TOPLAP Barcelona, and Leicester Hackspace have been very useful to identify a list of new functionalities that I am considering when developing the tool. This exemplifies a participatory design approach to software development that I'm interested in exploring further. You can watch the video of my performance below:
+My performance is using the MIRLCa library with some new functionalities, such as expanding the VA to the "tag" method and printing the list of sound credits within the live coding environment. The three workshops that we organised in December 2020-January 2021 together with IKLECTIK, l'ull cec / TOPLAP Barcelona, and Leicester Hackspace have been very useful to identify a list of new functionalities that I am considering when developing the tool. This exemplifies a participatory design approach to software development that I'm interested in exploring further. 
+
+You can watch the video of my performance below:
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/515416972" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
