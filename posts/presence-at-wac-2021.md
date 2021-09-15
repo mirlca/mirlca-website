@@ -46,10 +46,10 @@ In the two performances, I explore chance by using a set of four dice that trigg
 Here you can find direct links to the keynote slides and the performance paper:
 
 * [Keynote slides](https://miro.com/app/board/o9J_l8Gqt_o=/) (on Miro).
-* [Performance paper](/downloads/http://localhost:8080/downloads/Xambo-WAC-performance-2021.pdf).  
+* [Performance paper](/downloads/Xambo-WAC-performance-2021.pdf).  
 
 
 ## Acknowledgements
 
-Thank you very much to the WAC 2021 committee, who successfully organised and delivered an online conference exploring the possibilities that the online medium can offer. Special thanks to António Ramires for hosting the keynote session and Ángel Faraldo for hosting the two performance sessions. Also thank you to all the WAC 2021 attendees who participated in the interactive capsules of the keynote talk. Last but not least, thanks to Gerard Roma for his valuable feedback.
+Thank you very much to the WAC 2021 committee, who successfully organised and delivered an online conference exploring the possibilities that the online medium can offer. Special thanks to António Ramires for hosting the keynote session, Ángel Faraldo for hosting the two performance sessions, and Frederic Font for his  constant technical support with Freesound. Also thank you to all the WAC 2021 attendees who participated in the interactive capsules of the keynote talk as well as attendees of the one or two performances. Last but not least, thanks to Gerard Roma for his valuable feedback.
 

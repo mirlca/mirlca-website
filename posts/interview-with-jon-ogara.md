@@ -9,10 +9,11 @@ tags:
   - videos
   - live-coding sessions
   - workshops
+  - collaborations
 layout: layouts/post.njk
 ---
 
-This is an interview with Jon Ogara about follow-up work using MIRLCa after attending the workshop hosted by Leicester Hackspace in January 2021. Jon Ogara will participate in the final concert of the project [Dirty Dialogues](/concerts/) featuring Dirty Electronics Ensemble (John Richards, Zach Dawson, Robin Foster, Ben Middle, Jacob Myer Braslawsce, Matt Rogerson, Amit Patel, Audrey Riley, Sam Topley, Samuel Warren), Jon Ogara (performer), Anna Xambó (performer) and Sam Roig (Q&A moderator).
+*This is an interview with Jon Ogara about follow-up work using MIRLCa after attending the workshop hosted by Leicester Hackspace in January 2021. Jon Ogara will participate in the final concert of the project [Dirty Dialogues](/concerts/) featuring Dirty Electronics Ensemble (John Richards, Amit D Patel aka Dushume, Zach Dawson, Robin Foster, Ben Middle, Jacob Myer Braslawsce, Audrey Riley, Matt Rogerson, Harry Smith, Sam Topley, Samuel Warren) together with Jon Ogara, Anna Xambó and Sam Roig (interviewer).*
 
 <figure>
 <img src="../../img/Jon_Ogara.jpg" width="100%" class="responsive" />
@@ -21,7 +22,7 @@ This is an interview with Jon Ogara about follow-up work using MIRLCa after atte
 
 <div class="lighthighlightbox">
 
-Jon Ogara started his musical path by learning the flute at school and discovered the delights of classical music. Jon studied electronics at the University of Manchester with a focus on radio communications. At university, he learnt the guitar and started to create more independent rock music, influenced by bands such as The Fall or Cabaret Voltaire. He discovered the saxophone and Jazz and started to bring together ideas of Jazz improvisation into his composition. Jon has studied Jazz with Nik Weldon at the JazzSchool in Rushden. With the development of the internet and connected devices, he started to explore the world of experimental music and started to share ideas and compositions.
+**Jon Ogara** started his musical path by learning the flute at school and discovered the delights of classical music. Jon studied electronics at the University of Manchester with a focus on radio communications. At university, he learnt the guitar and started to create more independent rock music, influenced by bands such as The Fall or Cabaret Voltaire. He discovered the saxophone and Jazz and started to bring together ideas of Jazz improvisation into his composition. Jon has studied Jazz with Nik Weldon at the JazzSchool in Rushden. With the development of the internet and connected devices, he started to explore the world of experimental music and started to share ideas and compositions.
 [https://allopenelectrics.com](https://allopenelectrics.com) | [https://soundcloud.com/allopenelectrics](https://soundcloud.com/allopenelectrics)
 
 </div>
