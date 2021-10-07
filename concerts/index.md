@@ -19,7 +19,7 @@ As a follow-up of the workshops to be held in London (IKLECTIK), Barcelona (L'Ul
 
 **Monday, 17 May 2021. PACE (De Montfort University). Organised by MTI^2 (De Montfort University) in collaboration with l'ull cec**.
 
-This concert was pre-recorded due to COVID restrictions and will be premiered online during October 2021.
+This concert was pre-recorded due to COVID restrictions and will be premiered online on the 15th of October 2021.
 
 <figure>
 <img src="../../img/concert-recording-1-take-bw-inv.jpg" width="100%" class="responsive" />
@@ -50,17 +50,25 @@ Featuring:
 
 **Thursday, 29 April 2021 at 19.30 GMT. Sala Aranyó (Campus UPF Poblenou). Free access with invitation. Organised by Phonos in collaboration with TOPLAP Barcelona and l'ull cec.**
 
-Due to COVID-19 restrictions, this event had a capacity of 15 people, who assisted with an invitation. The event will be streamed in our channels soon.
+Due to COVID-19 restrictions, this event had a capacity of 15 people, who assisted with an invitation.
+
+<iframe class="responsive-video" width="640" height="360" src="https://www.youtube.com/embed/lDVsawECK2Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
 
 <div class="lighthighlightbox">
-Event Webpage: <a href="https://www.upf.edu/web/phonos/inici/-/asset_publisher/6o5hhSb6iSMy/content/id/244759906/maximized">https://www.upf.edu/web/phonos/inici/-/asset_publisher/6o5hhSb6iSMy/content/id/244759906/maximized</a>
+<h4>Related links:</h4>
+<ul style="margin:0">
+<li><a href="https://www.upf.edu/web/phonos/inici/-/asset_publisher/6o5hhSb6iSMy/content/id/244759906/maximized">Phonos event webpage</a></li>
+<li> <a href="https://youtu.be/lDVsawECK2Y">Phonos YouTube Channel of the event</a></li>
+<li><a href="/posts/different-similar-sounds-from-scratch-a-conversation-with-ramon-casamajo-ivan-paz-chiguire-and-roger-pibernat/">Different Similar Sounds "From Scratch": A Conversation with Ramon Casamajó, Iván Paz, Chigüire, and Roger Pibernat</a></li>
+<li><a href="/posts/different-similar-sounds-interview-with-ivan-paz/">Different Similar Sounds: An Interview with Iván Paz</a></li>
+<li><a href="/posts/different-similar-sounds-interview-with-iris-saladino/">Different Similar Sounds: An Interview with Iris Saladino</a></li>
+<li><a href="/posts/different-similar-sounds-interview-with-ramon-casamajo/">
+Different Similar Sounds: An Interview with Ramon Casamajó</a></li>
+<li><a href="/posts/different-similar-sounds-interview-with-hernani-villasenor/">Different Similar Sounds: An Interview with Hernani Villaseñor</a></li>
+</ul>
 </div>
-
-<figure>
-<img src="../../img/mirlca-screenshot-Ramon-Casamajo.png" width="100%" class="responsive" />
-<figcaption>SuperCollider and the MIRLCa library using Atom by Ramon Casamajó.</figcaption>
-</figure>
-
 
 In live coding, the technique called “from scratch” consists of playing live for 9 minutes starting from an empty screen. At the end of the performance all the attendants have to clap no matter the result! From scratch sessions visualize the programming languages at high or low level (try to play from scratch using, for example, Tidal, SuperCollider or Csound) and the tools (classes, functions, data structures, etc.) that allow the livecoder to carry out the different tasks within the performance. These sessions take advantage of the time and the empty screen restriction to explore new possibilities.
 
@@ -96,8 +104,11 @@ In this session, four live coders associated to TOPLAP (Ramon Casamajó, Roger P
 <br />
 
 <div class="lighthighlightbox">
-<p>IKLECTIK YouTube Channel: <a href="https://youtu.be/ZRqNfgg1HU0](https://youtu.be/ZRqNfgg1HU0">https://youtu.be/ZRqNfgg1HU0](https://youtu.be/ZRqNfgg1HU0</a><br />
-IKLECTIK FB Page: <a href="https://www.facebook.com/events/394209985339119/](https://www.facebook.com/events/394209985339119/">https://www.facebook.com/events/394209985339119/](https://www.facebook.com/events/394209985339119/</a></p>
+<h4>Related links:</h4>
+<ul style="margin:0">
+<li><a href="https://youtu.be/ZRqNfgg1HU0">IKLECTIK YouTube Channel of the event</a></li>
+<li> <a href="https://www.facebook.com/events/394209985339119/">IKLECTIK Facebook Page of the event</a></li>
+</ul>
 </div>
 
 Two performances by Anna Xambó (De Montfort University) and Gerard Roma (University of Huddersfield) respectively and a follow-up Q&A panel with the two musicians and Iván Paz (TOPLAP), moderated by Sam Roig (L’Ull Cec). The audience is invited to ask questions on the YouTube Live Chat.
