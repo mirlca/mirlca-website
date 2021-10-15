@@ -23,3 +23,6 @@ eleventyNavigation:
 <br />
 * Xambó, A. (2021). [A Live Coding Session With the Cloud and a Virtual Agent](/downloads/Xambo-NIME-performance-2021.pdf). International Conference on New Interfaces for Musical Expression. Retrieved from [https://nime.pubpub.org/pub/tmqan4a2](https://nime.pubpub.org/pub/tmqan4a2). 
 
+## Albums
+
+* Dirty Electronics Ensemble, Jon.Ogara, and Anna Xambó. (2021) [Dirty Dialogues](https://www.panyrosasdiscos.org/pyr313-dirty-electronics-ensemble-jon-ogara-and-anna-xambo-dirty-dialogues/). [FLAC/MP3 files]. Chicago (IL, USA): pan y rosas discos.

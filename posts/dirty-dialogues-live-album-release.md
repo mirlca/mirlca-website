@@ -25,7 +25,7 @@ Here's the press release of the album:
 
 The album was recorded on May 17, 2021, at PACE (De Montfort University) with no audience due to COVID-19 restrictions. The event was organised by MTI2, De Montfort University in collaboration with l’ull cec.
 
-You can download the album from:
+You can find out further information and download the album from:
 
 * [Dirty Dialogues](https://www.panyrosasdiscos.org/pyr313-dirty-electronics-ensemble-jon-ogara-and-anna-xambo-dirty-dialogues/) on www.panyrosasdiscos.org.
 * [Dirty Dialogues](https://panyrosasdiscos.bandcamp.com/album/dirty-dialogues) on panyrosasdiscos.bandcamp.com.
